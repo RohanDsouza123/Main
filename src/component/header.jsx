@@ -55,7 +55,7 @@ export default function Header() {
                 fontFamily: 'monospace',
                 fontWeight: 700,
                 letterSpacing: '.3rem',
-                color: 'yellow',
+                color: 'inherit',
                 textDecoration: 'none',
               }}
             >
