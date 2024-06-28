@@ -53,6 +53,9 @@ export default function Home() {
   return (
     <>
       <Header />
+      <h1>hello word</h1>
+
+
       <div
         style={{
           backgroundImage: `url(${Image})`,
